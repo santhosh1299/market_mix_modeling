@@ -1,4 +1,4 @@
-# **Final Project Report**
+# **Market Mix Modelling**
 
 **Jupyter Notebook** : https://github.com/santhosh1299/DTSC-Finance/blob/main/DTSC_Project_Report.ipynb
 
